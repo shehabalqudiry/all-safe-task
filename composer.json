@@ -6,8 +6,11 @@
     "license": "MIT",
     "require": {
         "php": "^8.2",
+        "laravel/breeze": "^2.0",
         "laravel/framework": "^11.0",
-        "laravel/tinker": "^2.9"
+        "laravel/tinker": "^2.9",
+        "pragmarx/google2fa-laravel": "^2.2",
+        "silverorange/mdb2": "^3.1"
     },
     "require-dev": {
         "fakerphp/faker": "^1.23",
